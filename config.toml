@@ -1,3 +1,43 @@
-baseURL = "http://example.org/"
+baseURL = "http://tinvaan.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Harish Navnit"
+theme = "hugo-theme-tokiwa"
+
+[params]
+description = """
+Here today, gone tomorrow.
+"""
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about"
+  [[menu.main]]
+    name = "Blog"
+    weight = 1
+    url = "/blog"
+  [[menu.main]]
+    name = "Testimonials"
+    weight = 1
+    url = "/testimonials"
+  [[menu.main]]
+    name = "Work"
+    weight = 1
+    url = "/work"
+  [[menu.main]]
+    name = "Projects"
+    weight = 1
+    url = "/projects"
+  [[menu.main]]
+    name = "Resume"
+    weight = 1
+    url = "/resume.pdf"
+
+[social]
+linkedin = "https://www.linkedin.com/in/tinvaan"
+github = "https://github.com/tinvaan"
+twitter = "https://twitter.com/tinvaan"
+instagram = "https://instagram.com/tinvaan"
+facebook = "https://facebook.com/tinvaan"
+youtube = "https://www.youtube.com/channel/UC-Sa7r3x7Z4z947QTz0DYLg"
