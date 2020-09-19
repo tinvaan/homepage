@@ -1,6 +1,9 @@
 baseURL = "http://tinvaan.me/"
 languageCode = "en-us"
 title = "Harish Navnit"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+copyright = "Copyright © 2020"
 theme = "hugo-theme-tokiwa"
 
 [params]
@@ -35,6 +38,7 @@ The unassuming journeyman.
     url = "/resume.pdf"
 
 [social]
+mail = "mailto:harishnavnit@gmail.com"
 linkedin = "https://www.linkedin.com/in/tinvaan"
 github = "https://github.com/tinvaan"
 twitter = "https://twitter.com/tinvaan"
