@@ -4,7 +4,7 @@ title = "Harish Navnit"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 copyright = "Copyright © 2020"
-theme = "hugo-theme-tokiwa"
+theme = "tokiwa"
 
 [params]
 description = """
