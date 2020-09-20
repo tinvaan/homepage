@@ -1,0 +1,26 @@
+{{ define "header" }}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ if isset .Site.Params "description" }}
+    <div class="font-serif text-medium-red-violet-400 pt-3">
+      {{ .Site.Params.Description | markdownify }}
+    </div>
+    <hr class="pt-2"/>
+  {{ end }}
+  {{ $section := .Site.GetPage "section" .Section }}
+    <article>
+      <section class="mx-auto content">
+        <div class="c-rich-text">{{- .Content -}}</div>
+      </section>
+    </article>
+  {{ end }}
+
+{{ define "aside" }}
+	{{ partial "page-aside.html" . }}
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "page-footer.html" . }}
+{{ end }}

@@ -1,41 +1,42 @@
 baseURL = "http://tinvaan.me/"
 languageCode = "en-us"
 title = "Harish Navnit"
+copyright = "Copyright © 2020"
+enableEmoji = true
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-copyright = "Copyright © 2020"
 theme = "tokiwa"
 
 [params]
 description = """
 The unassuming journeyman.
 """
+useChineseFonts = true
+bannerFont = "fonts/exampleFont"
+invisibleSections = ["abort", "hbd"]
+
+[sitemap]
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [menu]
-  [[menu.main]]
-    name = "About"
-    weight = 1
-    url = "/about"
   [[menu.main]]
     name = "Blog"
     weight = 1
     url = "/blog"
   [[menu.main]]
     name = "Testimonials"
-    weight = 1
+    weight = 2
     url = "/testimonials"
   [[menu.main]]
-    name = "Work"
-    weight = 1
-    url = "/work"
-  [[menu.main]]
-    name = "Projects"
-    weight = 1
-    url = "/projects"
-  [[menu.main]]
     name = "Resume"
-    weight = 1
+    weight = 3
     url = "/resume.pdf"
+
+[taxonomies]
+category = "categories"
+tags = "tags"
+series = "series"
 
 [social]
 mail = "mailto:harishnavnit@gmail.com"
