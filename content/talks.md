@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-# Presentations
+## Presentations
 
 ### Convergent applications using Kirigami UI [[slides](https://docs.google.com/presentation/d/1U96exbkwBs1x71Z3yOC0B_gzdoRoU8ErP9S8kdzokEU/edit?usp=sharing)][[video](https://www.youtube.com/watch?v=Df9hFzZl7Tc)]
 - :office: [FOSSASIA summit, 2018](https://2018.fossasia.org)
@@ -18,7 +18,7 @@ draft: false
     - :earth_africa: IIT Guwahati, India
 
 
-# Conferences / Meetups
+## Conferences / Meetups
 
 ### [KDE Randa Meetings](https://randa-meetings.ch) :link:
 - :earth_africa: Randa, Switzerland
