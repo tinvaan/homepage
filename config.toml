@@ -11,9 +11,9 @@ theme = "tokiwa"
 description = """
 The unassuming journeyman.
 """
+mainSections = ["/"]
 useChineseFonts = true
 bannerFont = "fonts/exampleFont"
-invisibleSections = ["abort", "hbd"]
 
 [sitemap]
   filename = "sitemap.xml"
@@ -34,9 +34,9 @@ invisibleSections = ["abort", "hbd"]
     url = "/resume.pdf"
 
 [taxonomies]
-category = "categories"
 tags = "tags"
 series = "series"
+category = "categories"
 
 [social]
 mail = "mailto:harishnavnit@gmail.com"
