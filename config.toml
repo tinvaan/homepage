@@ -23,15 +23,19 @@ bannerFont = "fonts/exampleFont"
   [[menu.main]]
     name = "Blog"
     weight = 1
-    url = "/blog"
+    url = "https://tinvaan.wordpress.com/blog"
   [[menu.main]]
-    name = "Testimonials"
+    name = "Talks"
     weight = 2
-    url = "/testimonials"
+    url = "/talks"
   [[menu.main]]
     name = "Resume"
     weight = 3
     url = "/resume.pdf"
+  [[menu.main]]
+    name = "Testimonials"
+    weight = 4
+    url = "/testimonials"
 
 [taxonomies]
 tags = "tags"
