@@ -11,8 +11,15 @@ draft: false
 >  
 >  &nbsp;
 >  
-> -- <cite>[Kenny Shen](http://kennyshen.dev), Co-founder/CTO [Anapi Pte. Ltd](https://anapi.co)</cite>
+> -- <cite>[Kenny Shen](http://kennyshen.dev), Co-founder/CTO Anapi Pte. Ltd</cite>
 
+
+> "Harish's main strength is his unending curiosity and relentless pursuit to learn new topics, even beyond his areas of expertise. He is definitely one of the brightest individuals I have mentored so far."
+>
+>  
+>  &nbsp;
+>  
+> -- <cite>[Sai Vikneshwar, PhD](https://www.linkedin.com/in/sai-vikneshwar-9857b32a/) , Software Engineer, Amazon</cite>
 
 > "Harish is a great guy to work with. We worked on challenging problems during our time at Spectral Insights. He was always very professional in his approach.
 >  
@@ -22,7 +29,7 @@ draft: false
 >  
 >  &nbsp;
 >  
-> -- <cite>[Nikhil Raj](https://www.linkedin.com/in/rajnikhil), Software Engineer, Microsoft
+> -- <cite>[Nikhil Raj](https://www.linkedin.com/in/rajnikhil), Software Engineer, Microsoft</cite>
 
 
 > "Harish was my co-worker and mentor when I was at Anapi. This was my first software engineering role. He is easy to work with and very patient with new engineers.
@@ -37,4 +44,4 @@ draft: false
 >  
 >  &nbsp;
 >  
-> -- <cite>[Noel Kwan](https://www.linkedin.com/in/noel-kwan-17484b119/), Software Engineer, Holmusk
+> -- <cite>[Noel Kwan](https://www.linkedin.com/in/noel-kwan-17484b119/), Software Engineer, Holmusk</cite>
