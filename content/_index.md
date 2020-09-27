@@ -10,7 +10,7 @@ I'm Harish. My work is largely centered around
 ### :computer: Software engineering
 As a software developer/engineer, my experience ranges from developing cross-platform desktop applications to developing RESTful API's and backend services.
 
-More recently, I have taken a keen interest in developer productivity - through developer tooling and software builds & relase workflows.
+More recently, I have taken a keen interest in developer productivity - through developer tooling and software builds & release workflows.
 
 Check out some of my [projects on Github](https://github.com/tinvaan) and leave any feedback you may have.
 
