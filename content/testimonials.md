@@ -6,12 +6,18 @@ draft: false
 
 <br/><br/>
 
+> "Harish is self motivated and a good communicator. It was a pleasure working with him." 
+>  
+>  &nbsp;
+>  
+> -- <cite>[Ruth Haller]("https://www.linkedin.com/in/ruthhaller"), Co-Founder / CEO Anapi</cite>
+
 > "Harish is always eager to learn, hardworking and trustworthy. I've enjoyed working together with him."
 >
 >  
 >  &nbsp;
 >  
-> -- <cite>[Kenny Shen](http://kennyshen.dev), Co-founder/CTO Anapi Pte. Ltd</cite>
+> -- <cite>[Kenny Shen](http://kennyshen.dev), Co-Founder / CTO Anapi</cite>
 
 
 > "Harish's main strength is his unending curiosity and relentless pursuit to learn new topics, even beyond his areas of expertise. He is definitely one of the brightest individuals I have mentored so far."
