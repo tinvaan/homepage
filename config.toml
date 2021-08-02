@@ -31,7 +31,7 @@ bannerFont = "fonts/exampleFont"
   [[menu.main]]
     name = "Resume"
     weight = 3
-    url = "/resume.pdf"
+    url = "/resume"
   [[menu.main]]
     name = "Testimonials"
     weight = 4
