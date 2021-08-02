@@ -12,7 +12,7 @@ As a software developer/engineer, my experience ranges from developing cross-pla
 
 More recently, I have taken a keen interest in developer productivity - through developer tooling and software builds & release workflows.
 
-Check out some of my [projects on Github](https://github.com/tinvaan) and leave any feedback you may have.
+Check out some of my {{< external content="projects on Github" url="https://github.com/tinvaan" >}} and leave any feedback you may have.
 
 
 ### :rocket: Early stage startups
