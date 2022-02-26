@@ -1,0 +1,8 @@
+<object data="{{ .Get `uri` }}" type="application/pdf" width="800px" height="600px">
+    <embed src="{{ .Get `uri` }}">
+        <p>
+            This browser does not support viewing PDFs.
+            Please download the document to view it: <a href="{{ .Get `uri` }}">Download</a>.
+        </p>
+    </embed>
+</object>
