@@ -1,7 +1,7 @@
 baseURL = "http://tinvaan.me/"
 languageCode = "en-us"
 title = "Harish Navnit"
-copyright = "Copyright © 2020"
+copyright = "Copyright © 2022"
 enableEmoji = true
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
@@ -21,20 +21,25 @@ bannerFont = "fonts/exampleFont"
 
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "Home"
     weight = 1
+    url = "/"
+  [[menu.main]]
+    name = "Blog"
+    weight = 2
     url = "https://tinvaan.wordpress.com/blog"
+    target = "_blank"
   [[menu.main]]
     name = "Talks"
-    weight = 2
+    weight = 3
     url = "/talks"
   [[menu.main]]
     name = "Resume"
-    weight = 3
+    weight = 4
     url = "/resume"
   [[menu.main]]
     name = "Testimonials"
-    weight = 4
+    weight = 5
     url = "/testimonials"
 
 [taxonomies]
