@@ -1,4 +1,6 @@
 *.zip
 *.lock
+
 .ssl/
 public/
+themes/
