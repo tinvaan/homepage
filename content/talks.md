@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-### :scroll:  Presentations
+## :scroll:  Presentations
 
 #### Convergent applications using Kirigami UI [[slides](/documents/kirigami-ui.pdf)]
 
@@ -22,7 +22,7 @@ draft: false
 
 ---
 
-### :beers:  Sprints & Meetups
+## :beers:  Sprints & Meetups
 
 #### KDE developers sprint
 
