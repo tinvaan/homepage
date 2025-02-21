@@ -1,11 +1,12 @@
 baseURL = "http://tinvaan.me/"
 languageCode = "en-us"
 title = "Harish Navnit"
-copyright = "Copyright © 2022"
+copyright = "Copyright © 2025"
 enableEmoji = true
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-theme = "paper"
+ignoreLogs = ['warning-goldmark-raw-html']
+theme = "tokiwa"
 
 [params]
 description = """
