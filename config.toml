@@ -31,16 +31,20 @@ bannerFont = "fonts/exampleFont"
     url = "https://tinvaan.wordpress.com/blog"
     target = "_blank"
   [[menu.main]]
-    name = "Talks"
+    name = "CV"
     weight = 3
-    url = "/talks"
+    url = "/cv"
   [[menu.main]]
-    name = "Resume"
-    weight = 4
-    url = "/resume"
+    name = "Talks"
+    weight = 5
+    url = "/talks"
+  # [[menu.main]]
+  #   name = "Resume"
+  #   weight = 4
+  #   url = "/resume"
   [[menu.main]]
     name = "Testimonials"
-    weight = 5
+    weight = 6
     url = "/testimonials"
 
 [taxonomies]
