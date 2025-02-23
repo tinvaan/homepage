@@ -22,7 +22,7 @@ bannerFont = "fonts/exampleFont"
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "/"
     weight = 1
     url = "/"
   [[menu.main]]
