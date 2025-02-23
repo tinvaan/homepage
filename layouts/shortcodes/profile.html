@@ -1,0 +1,14 @@
+{{ $image := resources.Get "images/profile.jpg" }}
+{{ if gt $image.Width 640 }}
+    {{ $image = $image.Resize "640x" }}
+{{ end }}
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <figure>
+        <img
+            src="{{ $image.RelPermalink | safeURL }}"
+            width="300"
+            height="200"
+        />
+    </figure>
+</div>

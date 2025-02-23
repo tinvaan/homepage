@@ -26,13 +26,17 @@ bannerFont = "fonts/exampleFont"
     weight = 1
     url = "/"
   [[menu.main]]
-    name = "Blog"
+    name = "About"
     weight = 2
+    url = "/about"
+  [[menu.main]]
+    name = "Blog"
+    weight = 3
     url = "https://tinvaan.wordpress.com/blog"
     target = "_blank"
   [[menu.main]]
     name = "CV"
-    weight = 3
+    weight = 4
     url = "/cv"
   [[menu.main]]
     name = "Talks"
