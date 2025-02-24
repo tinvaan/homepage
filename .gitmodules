@@ -9,4 +9,4 @@
 	url = git@github.com:jakewies/hugo-theme-codex.git
 [submodule "themes/tokiwa"]
 	path = themes/tokiwa
-	url = https://github.com/heyeshuang/hugo-theme-tokiwa.git
+	url = git@github.com:tinvaan/tokiwa.git
