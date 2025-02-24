@@ -10,7 +10,7 @@ I'm a __product-minded__ software engineer and love building _0 - 1_ products th
 
 - First engineer @ {{< external text="Anapi (acq. Aetna Insurance)" url="https://anapi.co" >}}
 - Early engineer @ {{< external text="Spectral Insights (acq. nference)" url="https://www.pramana.ai/" >}}
-- Built integrations @ {{< external text="Dialpad" url="https://dialpad.com" >}}
+- Built the integrations platform @ {{< external text="Dialpad" url="https://dialpad.com" >}}
 
 <!-- 
 #### 🎓 Cybersecurity & AI
