@@ -25,7 +25,7 @@ Read [more](about).
 
 ---
 
-I'm currently exploring ways to improve the overall candidate experience for job seekers.
+I'm currently building {{< external text="autopatch.dev" url="https://autopatch.dev" >}} @ {{< external text="Imperial Global Singapore" url="https://www.imperial.ac.uk/about/global/singapore" >}}.
 
 <!-- Sign-up at {{< external text="purehire.io" url="https://expo.lovable.app" >}} -->
 Follow {{< external text="@tinvaan" url="https://x.com/tinvaan" >}} on {{< external text="X" url="https://x.com" >}} for updates.
